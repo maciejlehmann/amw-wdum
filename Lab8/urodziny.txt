@@ -1,0 +1,4 @@
+imię,dział,miesiąc urodzin
+Jan Kowalski,Kadry,Listopadzie
+Maciej Lehmann,IT,Maju
+Anna Nowak,Kierownictwo,Lipcu
